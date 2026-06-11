@@ -1,0 +1,51 @@
+[2026-06-09 03:53:26] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"administrador","sucursal":"Maestranza","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 03:55:29] [6] [32] [LOGIN_OK] UID:10 [Inform√°tica] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Inform√°tica (informatica@latinequip.com) | EXTRA: {"perfil":"cargador","sucursal":"Los √Ångeles Principal","ms_id":"8cb7a1a5-930c-48f7-be70-6a6f8afad18d"}
+[2026-06-09 04:01:04] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"administrador","sucursal":"Maestranza","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 04:01:55] [6] [32] [LOGIN_OK] UID:10 [Inform√°tica] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Inform√°tica (informatica@latinequip.com) | EXTRA: {"perfil":"cargador","sucursal":"Los √Ångeles Principal","ms_id":"8cb7a1a5-930c-48f7-be70-6a6f8afad18d"}
+[2026-06-09 04:12:32] [6] [ENTREGA] [FUEL_DELIVERED] UID:10 [Inform√°tica] IP:191.116.93.175 ó Entrega #FC-2026-00030: Surtidor 267‚Üí270. Litros reales: 3 L. Estanque queda en 264 L | EXTRA: {"request_id":30,"litros_reales":3,"meter_start":267,"meter_end":270,"tank_after":264}
+[2026-06-09 05:06:41] [6] [32] [LOGOUT] UID:10 [Inform√°tica] IP:191.116.93.175 ó Cierre de sesi√≥n ‚Äî Inform√°tica (informatica@latinequip.com)
+[2026-06-09 05:06:53] [6] [32] [LOGOUT] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Cierre de sesi√≥n ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com)
+[2026-06-09 05:07:14] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"administrador","sucursal":"Maestranza","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 05:08:21] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"administrador","sucursal":"Maestranza","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 05:17:30] [6] [32] [LOGOUT] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Cierre de sesi√≥n ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com)
+[2026-06-09 05:18:27] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"superadmin","sucursal":"","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 05:22:21] [6] [32] [LOGOUT] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Cierre de sesi√≥n ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com)
+[2026-06-09 05:23:23] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:191.116.93.175 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"superadmin","sucursal":"","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 14:55:44] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"superadmin","sucursal":"","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 15:14:37] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"superadmin","sucursal":"","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 15:17:36] [6] [8] [USER_PROFILE_ASSIGNED] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Perfil asignado a Robinson Vargas (robinson.vargas@latinequip.com): perfil=cargador, sucursal ID=1 | EXTRA: {"user_id":12,"email":"robinson.vargas@latinequip.com","perfil":"cargador","branch_id":1}
+[2026-06-09 15:19:19] [6] [32] [LOGOUT] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Cierre de sesi√≥n ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com)
+[2026-06-09 15:21:35] [6] [32] [LOGIN_OK] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Ricardo Barriga M. (ricardo.barriga@latinequip.com) | EXTRA: {"perfil":"superadmin","sucursal":"","ms_id":"522f3247-2eae-4c94-9734-707aea6a2a22"}
+[2026-06-09 15:22:27] [6] [8] [USER_PROFILE_ASSIGNED] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Perfil asignado a Constanza Mu√±oz (constanza.munoz@latinequip.com): perfil=solicitante, sucursal ID=1 | EXTRA: {"user_id":7,"email":"constanza.munoz@latinequip.com","perfil":"solicitante","branch_id":1}
+[2026-06-09 15:22:45] [6] [8] [USER_PROFILE_ASSIGNED] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Perfil asignado a Intranet Latin Equipment (intranet@latinequip.com): perfil=aprobador, sucursal ID=1 | EXTRA: {"user_id":5,"email":"intranet@latinequip.com","perfil":"aprobador","branch_id":1}
+[2026-06-09 15:22:56] [6] [8] [USER_PROFILE_ASSIGNED] UID:4 [Ricardo Barriga M.] IP:207.248.192.57 ó Perfil asignado a Robinson Vargas (robinson.vargas@latinequip.com): perfil=cargador, sucursal ID=1 | EXTRA: {"user_id":12,"email":"robinson.vargas@latinequip.com","perfil":"cargador","branch_id":1}
+[2026-06-09 15:34:24] [6] [32] [LOGIN_OK] UID:7 [Constanza Mu√±oz] IP:186.67.225.62 ó Inicio de sesi√≥n Microsoft exitoso ‚Äî Constanza Mu√±oz (constanza.munoz@latinequip.com) | EXTRA: {"perfil":"solicitante","sucursal":"Maestranza","ms_id":"6bd48b45-3392-4773-84df-fe798165006a"}
+[2026-06-09 15:34:44] [6] [SOLICITUD] [REQUEST_CREATED] UID:7 [Constanza Mu√±oz] IP:186.67.225.62 ó Solicitud 0220 ‚Äî llamada de servicio ‚Äî 20 L | EXTRA: {"request_id":"31","tipo":"llamada de servicio","litros":20,"branch_id":1}
+[2026-06-09 15:59:41] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 15:59:49] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 15:59:54] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:00:01] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:01:21] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:02:30] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:02:38] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:03:07] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:04:40] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:04:44] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:04:53] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:05:07] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:06:57] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:10:39] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:10:46] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:10:53] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:11:32] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:13:52] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:25:01] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:25:10] [4] [32] [LOGIN_LOCAL_FAIL] Sistema IP:191.116.107.198 ó Intento fallido (autenticaci√≥n local): ricbarri@gmail.com
+[2026-06-09 16:32:17] [6] [32] [LOGIN_LOCAL_OK] UID:13 [Ricbarri] IP:191.116.107.198 ó Login local exitoso: Ricbarri (ricbarri@gmail.com) | EXTRA: {"perfil":"superadmin","sucursal":"Global"}
+[2026-06-09 16:35:24] [6] [32] [LOGIN_LOCAL_OK] UID:13 [Ricbarri] IP:191.116.107.198 ó Login local exitoso: Ricbarri (ricbarri@gmail.com) | EXTRA: {"perfil":"superadmin","sucursal":"Global"}
+[2026-06-09 16:50:20] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:7
+[2026-06-09 16:50:25] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:11
+[2026-06-09 16:50:31] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:10
+[2026-06-09 16:50:39] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:5
+[2026-06-09 16:50:43] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:4
+[2026-06-09 16:50:46] [4] [8] [USER_DEACTIVATED] UID:13 [Ricbarri] IP:191.116.107.198 ó Usuario desactivado ID:12

@@ -1,0 +1,16 @@
+[09-Jun-2026 16:35:39 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.v_pending_users' doesn't exist in /home5/cco117336/public_html/modules/users/list.php:26
+Stack trace:
+#0 /home5/cco117336/public_html/modules/users/list.php(26): PDO->query('\n    SELECT * F...')
+#1 {main}
+  thrown in /home5/cco117336/public_html/modules/users/list.php on line 26
+[09-Jun-2026 16:36:05 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.v_pending_users' doesn't exist in /home5/cco117336/public_html/modules/users/list.php:26
+Stack trace:
+#0 /home5/cco117336/public_html/modules/users/list.php(26): PDO->query('\n    SELECT * F...')
+#1 {main}
+  thrown in /home5/cco117336/public_html/modules/users/list.php on line 26
+[09-Jun-2026 16:50:20 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:50:25 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:50:31 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:50:39 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:50:43 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:50:46 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist

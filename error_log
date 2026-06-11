@@ -1,0 +1,81 @@
+[09-Jun-2026 12:39:25 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('ricbarri@gmail....')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 12:41:03 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('ricbarri@gmail....')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 14:23:21 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('ricbarri@gmail....')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 14:35:08 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('ricbarri@gmail....')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 15:05:02 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('ricbarri@gmail....')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 15:31:24 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('admin@empresa.c...')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 15:47:04 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:18
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(18): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(76): getDB()
+#2 /home5/cco117336/public_html/index.php(34): getCompanyAuthMethod('admin@empresa.c...')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 18
+[09-Jun-2026 15:49:40 America/Santiago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cco117336_fuel_management'@'localhost' (using password: YES) in /home5/cco117336/public_html/config/database.php:22
+Stack trace:
+#0 /home5/cco117336/public_html/config/database.php(22): PDO->__construct('mysql:host=loca...', 'cco117336_fuel_...', Object(SensitiveParameterValue), Array)
+#1 /home5/cco117336/public_html/includes/auth.php(79): getDB()
+#2 /home5/cco117336/public_html/index.php(39): getCompanyAuthMethod('admin@empresa.c...')
+#3 {main}
+  thrown in /home5/cco117336/public_html/config/database.php on line 22
+[09-Jun-2026 15:59:41 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 15:59:49 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 15:59:54 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:00:01 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:01:21 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:02:30 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:02:38 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:03:07 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:04:40 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:04:44 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:04:53 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:05:07 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:06:57 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:08:27 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home5/cco117336/public_html/config/app.php on line 43
+[09-Jun-2026 16:10:39 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:10:46 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:10:53 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:11:32 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:13:52 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:25:01 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:25:10 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:32:17 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
+[09-Jun-2026 16:32:17 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home5/cco117336/public_html/config/app.php on line 43
+[09-Jun-2026 16:32:17 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home5/cco117336/public_html/dashboard.php:1) in /home5/cco117336/public_html/includes/auth.php on line 16
+[09-Jun-2026 16:35:24 America/Santiago] [FuelControl] BD log error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cco117336_fuel_management.system_logs' doesn't exist
